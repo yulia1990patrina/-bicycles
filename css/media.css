@@ -78,7 +78,9 @@
     }
 
 /* ---------description----------- */
-
+    .description {
+        height: 75vh;
+    }
     .description__text {
         padding: 8% 0 8%
     }
